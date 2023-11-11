@@ -15,7 +15,7 @@ class Screen1 extends StatelessWidget {
       body: Column(
         children: [
           Center(
-            child: Text("Screen 1",style: TextStyle(fontSize: 40,fontWeight: FontWeight.w600),)
+            child: Text("Screen 1 change",style: TextStyle(fontSize: 40,fontWeight: FontWeight.w600),)
           ),
         ],
       ),
